@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+
+int main(void) 
+{
+
+	// your code goes 
+
+	int b,j;
+	
+b=1;
+	j=5;
+
+	do
+	
+{
+	  
+  printf("%d\t",b*j);
+	
+    b++;
+	
+}while(b<=10);
+	
+
+	return 0;
+
+}
